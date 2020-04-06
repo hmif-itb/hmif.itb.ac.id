@@ -1,0 +1,17 @@
+@import '~vuetify/src/styles/styles.sass';
+
+$body-font-family: 'Montserrat', sans-serif;
+$button-font-weight: 700;
+$button-letter-spacing: 'normal';
+$heading-font-family: $body-font-family;
+@each $heading, $style in $headings {
+  $headings: map-merge($headings, ($heading: map-merge($style, ('font-family': $heading-font-family))));
+}
+
+$grid-breakpoints: (
+  'xs': 0,
+  'sm': 600px,
+  'md': 960px,
+  'lg': 1280px,
+  'xl': 50000px
+);
