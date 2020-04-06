@@ -71,6 +71,9 @@ import PageTitle from "~/components/PageTitle";
 import TeamProfile from "~/components/TeamProfile";
 
 export default {
+  head: {
+    title: "Contact"
+  },
   components: {
     TeamProfile,
     PageTitle,

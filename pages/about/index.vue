@@ -44,6 +44,9 @@ import Footer from "~/components/Footer";
 import PageTitle from "~/components/PageTitle";
 
 export default {
+  head: {
+    title: "About Us"
+  },
   components: {
     PageTitle,
     Footer,

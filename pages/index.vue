@@ -29,6 +29,9 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 
 export default {
+  head: {
+    title: "Home"
+  },
   components: {
     Footer,
     Navbar,
