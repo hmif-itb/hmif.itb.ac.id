@@ -20,7 +20,7 @@
             Media Sosial
           </div>
           <div class="mt-2">
-            Instagram: <a target="_blank" class="no-decoration color-orange" href="https://instagram.com/hmif.itb">@hmif.itb</a>
+            Instagram: <a target="_blank" class="no-decoration color-orange" href="https://instagram.com/hmif_itb">@hmif_itb</a>
           </div>
           <div>
             LINE: <a target="_blank" class="no-decoration color-orange" href="https://line.me/R/ti/p/@hmif_itb">@hmif_itb</a>
