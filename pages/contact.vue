@@ -49,8 +49,6 @@
           <div class="mt-3">
             Inkubator-IT
             <br />
-            Contact Person: John Doe (WA: +62800000000000)
-            <br />
             Email: <a target="_blank" class="no-decoration color-orange" href="mailto:admin@inkubatorit.com">admin@inkubatorit.com</a>
             <br />
             Website: <a target="_blank" class="no-decoration color-orange" href="https://inkubatorit.com">www.inkubatorit.com</a>
