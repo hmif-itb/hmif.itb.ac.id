@@ -38,7 +38,10 @@ export default {
   */
   buildModules: [
     '@nuxt/typescript-build',
-    '@nuxtjs/vuetify'
+    '@nuxtjs/vuetify',
+    ['@nuxtjs/google-analytics', {
+      id: 'UA-162797645-1'
+    }]
   ],
   /*
   ** Nuxt.js modules

@@ -81,7 +81,7 @@ export default {
       {
         dept: "Internal Affairs",
         people: [
-          { name: "M. Ridwan Hady A", title: "VP of Internal Affairs" },
+          { name: "Mohammad Ridwan Hady Arifin", title: "VP of Internal Affairs" },
           { name: "Taufikurrahman Anwar", title: "Head of Academic & Welfare" },
           { name: "Hollyana Puteri Haryono", title: "Deputy Head of Academic & Welfare" },
           { name: "Ahmad Rizal Alifio", title: "Head of Infrastructure & Household" },
