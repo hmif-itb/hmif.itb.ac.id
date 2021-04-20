@@ -35,7 +35,7 @@
           <div class="mt-3">
             Departemen Eksternal HMIF ITB
             <br />
-            Contact Person: Muhammad Rafi Zhafran (WA: +6287809344268)
+            Contact Person: M. Irfaan Dzakiy (087818534887)
             <br />
             Email: <a target="_blank" class="no-decoration color-orange" href="mailto:hmif_itb@km.itb.ac.id">hmif_itb@km.itb.ac.id</a>
           </div>
